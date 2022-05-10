@@ -1,0 +1,18 @@
+.logo{
+    margin-left: 20%;
+}
+
+.navlinks{
+    margin-left: 15%;
+}
+.spaceBet{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.navbarFixed{
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    width: 100%;
+    background-color: black;
+}
